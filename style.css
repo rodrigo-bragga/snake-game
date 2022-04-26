@@ -1,0 +1,13 @@
+body{
+    height: 95vh;
+    width: 95;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: centter;
+}
+h1{
+    text-align: center;
+    color: green;
+    text-transform: uppercase;
+}
